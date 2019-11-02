@@ -151,6 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\dev\mkl_c_samples_102018\mkl_c_samples\matrix_multiplication\src\matrix_multiplication.c" />
     <ClCompile Include="test001.cpp" />
   </ItemGroup>
   <ItemGroup>

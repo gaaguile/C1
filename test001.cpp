@@ -3,7 +3,8 @@
 #include<mkl_vsl.h>	
 
 #include "std_lib_facilities.h"
-//#test 02 about comments
+
+// project for tests
 
 int main() {
 	cout << " How many times Do you want to repeat my goog luck phrase? ";
@@ -11,12 +12,11 @@ int main() {
 	cin >> times;
 
 	for (int i = 0; i < times; i++) {
-		cout << i<< "\tHello world of C++ and Intel MKL (Lapack & BLAS) \n";
+		cout << i << "\tHello world of C++ and Intel MKL (Lapack & BLAS) \n";
 	}
 	cout << "Press ANY key\n";
-	int key;
+	char key;
 	cin >> key;
-	cout << key;
 	return 0;
 
 

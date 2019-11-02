@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\dev\mkl_c_samples_102018\mkl_c_samples\matrix_multiplication\src\matrix_multiplication.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="test001.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
